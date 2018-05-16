@@ -1,1 +1,4 @@
-# Cinnaour.github.io
+# coding配置
+1.当本地没有这个项目的时候，克隆
+
+2电脑做配置
